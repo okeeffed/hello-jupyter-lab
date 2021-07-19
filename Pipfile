@@ -7,8 +7,10 @@ name = "pypi"
 requests = "*"
 
 [dev-packages]
-ipython = "*"
 jupyterlab = "*"
+mkdocs-jupyter = "*"
+mkdocs = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"

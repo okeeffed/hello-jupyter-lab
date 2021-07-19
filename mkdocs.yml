@@ -1,0 +1,7 @@
+site_name: 100 Days of Python
+nav:
+  - Home: index.md
+  - Hello Requests: hello_requests.ipynb
+
+plugins:
+  - mkdocs-jupyter
