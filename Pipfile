@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 requests = "*"
+pillow = "*"
+python-dotenv = "*"
+pyunsplash = "*"
 
 [dev-packages]
 jupyterlab = "*"
@@ -14,3 +17,6 @@ ipython = "*"
 
 [requires]
 python_version = "3.7"
+
+[scripts]
+dev = "jupyter-lab"
