@@ -9,6 +9,7 @@ pillow = "*"
 python-dotenv = "*"
 pyunsplash = "*"
 python-frontmatter = "*"
+numpy = "*"
 
 [dev-packages]
 jupyterlab = "*"
