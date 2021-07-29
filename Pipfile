@@ -8,6 +8,7 @@ requests = "*"
 pillow = "*"
 python-dotenv = "*"
 pyunsplash = "*"
+python-frontmatter = "*"
 
 [dev-packages]
 jupyterlab = "*"
