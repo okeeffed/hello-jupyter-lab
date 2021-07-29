@@ -15,9 +15,10 @@ jupyterlab = "*"
 mkdocs-jupyter = "*"
 mkdocs = "*"
 ipython = "*"
+pip-tools = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
 
 [scripts]
 dev = "jupyter-lab"
